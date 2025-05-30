@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/GoldyMoon)
+[![senli1073](https://img.shields.io/badge/GoldyMoon-github-blue?logo=github)](https://github.com/GoldyMoon)
 
 He is currently pursuing a Master's Degree in Computer Science at Johns Hopkins University.
 
